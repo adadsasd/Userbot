@@ -13,3 +13,6 @@
 <p align="center">&nbsp;</p>
 <h2 align="center">License</h2>
 <p align="center"><a href="https://github.com/Spyderzz/Userbot/blob/master/LICENSE">Raphielscape Public License</a> - Version 1.c, June 2019</p>
+
+
+pkg install git && pkg install python && pip3 install telethon && git clone https://github.com/Spyderzz/Userbot && cd U* && pip3 install python-dotenv && pip3 install requests && export APIKEY=APIKEYHERE && export APIHASH=APIHASHHERE && python3 string_session.py
